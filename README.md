@@ -6,7 +6,7 @@ If you want to contact me or ask me any questions, the best way is through [Disc
 I'm nonbinary.
 
 ## Social Media
-[![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/thesadru)
+[![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/ashleney)
 
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/454513969265115137)
 

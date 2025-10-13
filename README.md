@@ -1,7 +1,7 @@
 # About me
 Heya, I'm ashlen, a programmer living in the Czech Republic. I'm currently a student and code as a hobby. I mostly make downloaders and API wrappers. In my free time I do amateur linguistics and play videogames.
 
-If you want to contact me or ask me any questions, open up a github issue on any relevant repository. You can also contant me through [discord](https://discord.com/users/454513969265115137) (`@ashleney`) by joining [my support server](https://discord.gg/sMkSKRPuCR). 
+If you want to contact me or ask me any questions, open up a github issue on any relevant repository. You can also contact me through [discord](https://discord.com/users/454513969265115137) (`@ashleney`) by joining [my support server](https://discord.gg/sMkSKRPuCR). 
 
 I'm nonbinary.
 

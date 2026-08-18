@@ -1,5 +1,5 @@
 # About me
-Heya, I'm ashlen, a programmer living in the Czech Republic. I'm currently a student and code as a hobby. In my free time I do amateur linguistics and play videogames.
+Heya, I'm ashlen, a programmer living in the Czech Republic. I'm currently a student and code as a hobby. In my free time I do amateur linguistics.
 
 All my code is free to share, copy and distribute.
 
